@@ -1,0 +1,4 @@
+- Hello there! I am Bryant a Jr Developer
+- Right now I am 16 years old
+- I have knowledge of #Python / #HTML / #CSS and I am learning javascript!
+- I like cats, cold mornings, tea and solving bugs
