@@ -6,6 +6,5 @@ Hi, I'm Bryant, a Junior Frontend Developer, I love programming, I like cats, te
 ### console.log('Tools I currently manage 😉');
 <hr />
 
-<img width="50px" height="50px" src="https://img.icons8.com/carbon-copy/2x/visual-studio-code-2019.png" alt="Visual Studio Code icon" title="Visual Studio Code" />
-
-<img width="50px" height="50px" src="https://img.icons8.com/ios/2x/git.png" alt="git icon" title="git" />
+<img width="50px" height="50px" src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" alt="Visual Studio Code icon" title="Visual Studio Code" />
+<img width="50px" height="50px" src="https://img.icons8.com/ios-filled/2x/git.png" alt="git icon" title="git" />
