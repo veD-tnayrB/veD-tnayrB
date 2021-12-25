@@ -1,23 +1,7 @@
-# Who is Bryant Caballero?
-Bryant Caballero is a 17-year-old boy who loves technology specifically the creation of software (applications, websites) and who has a serious problem trying to relax because he almost never succeeds.
+### console.log('Welcome! 😊');
 
-## What are you doing right now?
-I am currently learning, my next step on my learning list is to learn about bootstrap and reinforce my knowledge with git
+Hi, I'm Bryant, a Junior Frontend Developer, I love programming, I like cats, tea, and cold mornings and improve my knowledge by creating my own projects, I am currently studying hard to become a Full Stack Developer but for now leave me with the Frontend ❤
 
-## What is your learning list?
-### Frontend:
-- HTML
-- CSS
-- JavaScript
-- JavaScript DOM
-- Git
-- Bootstrap
-- SASS
-- jQuery
-- React
-- Redux
-- React and Redux but together
-- Angular
-- Vue
+### console.log(Tools I currently manage 😉');
 
-### On the backend side it is still in progress
+<img src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" alt="Visual Studio Code icon" title="Visual Studio Code" />
