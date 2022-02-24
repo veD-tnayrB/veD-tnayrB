@@ -1,6 +1,7 @@
 <h1 align="center">Hi, Im Bryant 😛</h1>
+<h2 align="center">Jr. Frontend Developer</h2>
 
-I'm a Junior Frontend Developer, I love programming, I like cats, tea, and cold mornings and improve my knowledge by creating my own projects, I am currently studying hard to become a Full Stack Developer but for now leave me with the Frontend ❤
+Lover of programming, I like cats, tea, and cold mornings, I am improving my knowledge right now creating my own projects, I am currently studying hard to become a Full Stack Developer but for now leave me with the Frontend ❤
 
 ### Tools I currently manage 🤗
 
