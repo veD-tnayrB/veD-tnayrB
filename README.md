@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=veD-tnayrB&style=flat-square&color=blue" alt=""/>
 
 <h2>🧐 About me</h2>
-<p>I am a Jr. Frontend Developer ⚡</p>
+<p>I am a Jr. Full Stack Developer 📈</p>
 
 - <p>🎈 I spend much of my day learning Frontend concepts.</p>
 - <p>🤠 Right now I am creating my own personal projects to solidify concepts that I already know and practice the knowledge I am gaining.</p>
