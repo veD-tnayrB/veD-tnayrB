@@ -12,7 +12,7 @@
 
 <h2>🛠 Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb,ts,)](https://skillicons.dev)
 
 <h2>🔥 My Stats</h2>
 
