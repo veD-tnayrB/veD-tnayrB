@@ -2,7 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=veD-tnayrB&style=flat-square&color=blue" alt=""/>
 
-`Pepito`
 
 <h2>🧐 About me</h2>
 <p>I am a Jr. Full Stack Developer 📈</p>
