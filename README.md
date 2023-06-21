@@ -2,6 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=veD-tnayrB&style=flat-square&color=blue" alt=""/>
 
+`Pepito`
+
 <h2>🧐 About me</h2>
 <p>I am a Jr. Full Stack Developer 📈</p>
 
@@ -10,7 +12,7 @@
 - <p>💜 In my free time I practice solving some Frontend Mentor exercises.</p>
 - <p>🐦 You can always find me on Twitter</p>
 
-<h2>🛠 Languages and Tools</h2>
+<h2>🛠 `Languages` and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb,ts,)](https://skillicons.dev)
 
