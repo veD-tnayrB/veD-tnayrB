@@ -1,23 +1,23 @@
-<h1 align="center">Hi, Im Bryant 😛</h1>
+<h1 align="center">Hi, I'm Bryant 🎩</h1>
 
-<img src="https://komarev.com/ghpvc/?username=veD-tnayrB&style=flat-square&color=blue" alt=""/>
+<h2>👨‍💻 About me</h2>
 
+I'm a Full Stack developer with more than two years of experience in web development 🚀
 
-<h2>🧐 About me</h2>
-<p>I am a Jr. Full Stack Developer 📈</p>
+- 👨‍🔬 I love exploring and experimenting with new technologies and frameworks for the frontend and the backend.
 
-- <p>🎈 I spend much of my day learning Frontend concepts.</p>
-- <p>🤠 Right now I am creating my own personal projects to solidify concepts that I already know and practice the knowledge I am gaining.</p>
-- <p>💜 In my free time I practice solving some Frontend Mentor exercises.</p>
-- <p>🐦 You can always find me on Twitter</p>
+- 👨‍🎨 I enjoy creating personal projects that solve real problems or that are just fun and creative.
 
-<h2>🛠 `Languages` and Tools</h2>
+- 👨‍👩‍👧‍👦 I like to collaborate and share with other developers, both on GitHub and Twitter.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb,ts,)](https://skillicons.dev)
+- ⭐ Lets colaborate!
 
-<h2>🔥 My Stats</h2>
+<h2>🛠 Languages and tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb,ts,beyondjs)](https://skillicons.dev)
+
+<h2>🔥 My stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veD-tnayrB&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veD-tnayrB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
