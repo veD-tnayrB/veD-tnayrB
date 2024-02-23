@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About me</h2>
 
-I'm a Full Stack developer with more than two years of experience in web development 🚀
+I'm a Full Stack developer with more than two years of experience 🚀
 
 - 👨‍🔬 I love exploring and experimenting with new technologies and frameworks for the frontend and the backend.
 
