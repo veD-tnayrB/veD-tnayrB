@@ -1,21 +1,17 @@
-<h1 align="center">Hi, I'm Bryant 🎩</h1>
 
-<h2>👨‍💻 About me</h2>
 
-I'm a Full Stack developer with more than two years of experience 🚀
-
-- 👨‍🔬 I love exploring and experimenting with new technologies and frameworks for the frontend and the backend.
-
-- 👨‍🎨 I enjoy creating personal projects that solve real problems or that are just fun and creative.
-
-- 👨‍👩‍👧‍👦 I like to collaborate and share with other developers, both on GitHub and Twitter.
-
-- ⭐ Lets colaborate!
-
-<h2>🛠 Languages and tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,mongodb,ts,beyondjs)](https://skillicons.dev)
-
-<h2>🔥 My stats</h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veD-tnayrB&theme=dark&background=000000)](https://git.io/streak-stats)
+```math
+\ce{$\unicode[goombafont; 
+color:red; 
+pointer-events: none; 
+z-index: -10; 
+position: fixed; 
+top: 0; 
+left: 0; 
+height: 100vh; 
+width: 100vw; 
+opacity: 0.3; 
+background-size: cover; 
+background: url('https://raw.githubusercontent.com/veD-tnayrB/veD-tnayrB/main/dark-city.png');
+background-repeat: no-repeat;
+]{x0000}$}
