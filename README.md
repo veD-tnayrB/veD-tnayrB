@@ -1,7 +1,7 @@
 
 
 ```math
-\ce{$\unicode[goombafont; 
+\ce{$&#x5C;unicode[goombafont; 
 color:red; 
 pointer-events: none; 
 z-index: -10; 
