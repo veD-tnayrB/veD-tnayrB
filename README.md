@@ -11,7 +11,6 @@ left: 0;
 height: 100vh; 
 width: 100vw; 
 opacity: 0.5; 
-background-size: cover; 
-background: url('https://raw.githubusercontent.com/veD-tnayrB/veD-tnayrB/main/dark-city.png');
-background-repeat: no-repeat;
+background-size: contain; 
+background: url('https://raw.githubusercontent.com/veD-tnayrB/veD-tnayrB/main/never-gonna-give-you-up.gif');
 ]{x0000}$}
