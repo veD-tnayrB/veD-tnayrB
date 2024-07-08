@@ -1,6 +1,6 @@
 Hi! Bryant here! 🚀
 
-My name is Bryant Caballero, developer, I like software architecture, cats and making projects 
+My name is Bryant, developer, I like software architecture, cats and making projects 
 
 - I am currently working as a Full Stack Developer using Typescript, React, Node and [BeyondJS](https://beyondjs.com/).
 - I am currently working on separating from the Full Stack Developer position to concentrate on the backend
