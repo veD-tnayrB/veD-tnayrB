@@ -8,4 +8,4 @@ My name is Bryant, developer, I like software architecture, cats and making proj
 - My idea in the medium term is to separate myself from the Javascript ecosystem and specialize in backend using programming languages with better performance, and from there start studying moreabout cloud and software architecture.  
 - I'm constantly putting into practice the concepts I learn in personal open source projects, if you have a question about any of them, send me a DM
 - If you know about C, DSA, Software Architecture, Go, Cloud or AI and wanna talk about it or have any questions about the side projects I have, [Im on Discord](https://discord.com/users/bryantdev)
-- [Blog](https://bryantdev-blog.vercel.app/)
+- [Porfolio](https://v0-personal-portfolio-website-pink-ten.vercel.app/)
